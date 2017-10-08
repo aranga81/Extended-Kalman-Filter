@@ -11,10 +11,10 @@ This repository includes two files that can be used to set up and install [uWebS
 
 ## Results:
 #### Dataset 1 From the simulator:
-![Dataset1](https://raw.github.com/aranga81/Extended-Kalman-Filter/results/dataset1.JPG)
+![Dataset1](https://github.com/aranga81/Extended-Kalman-Filter/blob/master/results/dataset1.JPG)
 
 #### Dataset 2 From the simulator:
-![Dataset2](https://raw.github.com/aranga81/Extended-Kalman-Filter/results/dataset2.JPG)
+![Dataset2](https://github.com/aranga81/Extended-Kalman-Filter/blob/master/results/dataset2.JPG)
 
 ## Running the Code:
 Follow the steps:
