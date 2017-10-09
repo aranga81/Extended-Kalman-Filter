@@ -1,4 +1,4 @@
-# Traget Tracking with Sensor Fusion
+# Target Tracking with Sensor Fusion
 # Extended-Kalman-Filter implementation
 
 ## Overview:
